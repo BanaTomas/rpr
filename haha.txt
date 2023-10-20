@@ -2,4 +2,5 @@ pspad gg
 uprava
 uprava 2
 uprava 3
+toto je uprava, kterou dìlám na jíné vìtvi
 
